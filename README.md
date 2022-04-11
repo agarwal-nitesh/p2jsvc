@@ -47,3 +47,16 @@ Response should include something like this:
 ##More Info
 
 [Restful Web Service for PDF2JSON](http://www.codeproject.com/Articles/573297/Restful-Web-Service-for-PDF2JSON)
+
+
+# typescript
+
+```
+npm install --save-dev typescript
+
+npm i --save npmlog
+
+npm install --save-dev @types/npmlog
+npm install --save-dev @types/restify
+npm i --save-dev @types/underscore
+```
